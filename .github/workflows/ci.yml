@@ -1,0 +1,36 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+
+jobs:
+  test:
+    name: Analyze / Format / Test
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          cache: true
+
+      - name: Install dependencies
+        run: flutter pub get
+
+      - name: Format check (package)
+        run: dart format --output=none --set-exit-if-changed lib test tool
+
+      - name: Analyze (package)
+        run: flutter analyze
+
+      - name: Test (package)
+        run: flutter test
+
+      - name: Analyze (example)
+        working-directory: example
+        run: |
+          flutter pub get
+          flutter analyze

@@ -2,6 +2,7 @@
 
 [![pub package](https://img.shields.io/pub/v/ohos_icons.svg)](https://pub.dev/packages/ohos_icons)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
+[![CI](https://github.com/shaohushuo/ohos_icons/actions/workflows/ci.yml/badge.svg)](https://github.com/shaohushuo/ohos_icons/actions/workflows/ci.yml)
 
 HarmonyOS Symbol 图标库 for Flutter，用法与 [`cupertino_icons`](https://pub.dev/packages/cupertino_icons) 一致：内置华为官方 **HM Symbol** 图标字体，每个图标对应一个 `IconData` 常量，开箱即用。
 
@@ -9,7 +10,7 @@ HarmonyOS Symbol 图标库 for Flutter，用法与 [`cupertino_icons`](https://p
 - 内置 **534 个唯一图标**，覆盖 17 个分类
 - 面向鸿蒙生态：可直接运行在鸿蒙社区 Flutter 分叉 [CPF-Flutter/flutter_flutter](https://atomgit.com/CPF-Flutter/flutter_flutter) 上，也兼容官方 Flutter SDK
 
-![ohos_icons gallery 运行在鸿蒙模拟器](doc/ohos_screen_small.png)
+![ohos_icons gallery 运行在鸿蒙模拟器](https://cdn.jsdelivr.net/gh/shaohushuo/ohos_icons@main/doc/ohos_screen_small.png)
 
 ## 特性
 
