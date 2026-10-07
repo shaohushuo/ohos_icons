@@ -1,0 +1,27 @@
+# Dart / Flutter
+.dart_tool/
+build/
+*.iml
+*.log
+
+# FVM Version Cache
+.fvm/
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
+
+# large / redundant copies of upstream files (subset font lives in assets/)
+tool/data/layer_config.json
+tool/data/HMSymbol.ttf
+
+# generated previews
+tool/export/
+
+# HarmonyOS ohos build artifacts (example)
+example/ohos/node_modules/
+example/ohos/oh_modules/
+example/ohos/.hvigor/
+example/ohos/.idea/
