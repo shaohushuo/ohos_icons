@@ -1,0 +1,56 @@
+
+{
+  "app": {
+    // Dummy signing config so flutter tooling passes its signed-check.
+    // The product below does not reference it, so hvigor still produces an
+    // unsigned HAP, which the OpenHarmony emulator accepts (see tool/run_ohos.sh).
+    "signingConfigs": [
+      {
+        "name": "default",
+        "type": "OpenHarmony",
+        "material": {
+          "storeFile": "./signingConfigs/dummy.p12",
+          "storePassword": "dummy",
+          "keyAlias": "dummy",
+          "keyPassword": "dummy",
+          "signAlg": "SHA256withECDSA",
+          "profile": "./signingConfigs/dummy.p7b",
+          "certpath": "./signingConfigs/dummy.cer"
+        }
+      }
+    ],
+    "products": [
+      {
+        "name": "default",
+        "compatibleSdkVersion": "5.0.5(17)",
+        "targetSdkVersion": "26.0.0",
+        "runtimeOS": "HarmonyOS",
+      }
+    ],
+    "buildModeSet": [
+      {
+        "name": "debug"
+      },
+      {
+        "name": "profile"
+      },
+      {
+        "name": "release"
+      }
+    ]
+  },
+  "modules": [
+    {
+      "name": "entry",
+      "srcPath": "./entry",
+      "targets": [
+        {
+          "name": "default",
+          "applyToProducts": [
+            "default"
+          ]
+        }
+      ]
+    }
+  ]
+}

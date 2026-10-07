@@ -1,0 +1,6498 @@
+{
+  "version": "2.3",
+  "data": {
+    "系统UI": [
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI"
+        ],
+        "name": "airplane_fill",
+        "name_cn": "飞行模式",
+        "unicode": "F0113",
+        "mirror_unicode": "F0A02",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_2_circlepath",
+        "name_cn": "旋转、切换",
+        "unicode": "F00DC",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "电子邮件",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_clockwise",
+        "name_cn": "邮件刷新",
+        "unicode": "F00C7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_counterclockwise",
+        "name_cn": "恢复",
+        "unicode": "F00C8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "计算器",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_counterclockwise_clock",
+        "name_cn": "历史记录",
+        "unicode": "F03D5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_down_right_and_arrow_up_left",
+        "name_cn": "ic_reduce/缩小",
+        "unicode": "F00C9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_right_up_and_square",
+        "name_cn": "新页签打开",
+        "unicode": "F00CB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_up_left_and_arrow_down_right",
+        "name_cn": "放大/全屏",
+        "unicode": "F00CD",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrowshape_turn_up_right_fill",
+        "name_cn": "转发",
+        "unicode": "F08C2",
+        "mirror_unicode": "F0AEE",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "battery",
+        "name_cn": "检测项_电池/电量",
+        "unicode": "F011A",
+        "mirror_unicode": "F0A15",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "音频",
+        "category": [
+          "系统UI"
+        ],
+        "name": "battery_100percent",
+        "name_cn": "电量-100/电池",
+        "unicode": "F0BDB",
+        "mirror_unicode": "F0B78",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "查找设备",
+        "category": [
+          "系统UI"
+        ],
+        "name": "battery_75percent",
+        "name_cn": "设备的电量 会根据设备实际电量动态变化/电池",
+        "unicode": "F0659",
+        "mirror_unicode": "F0A13",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "车控设置",
+        "category": [
+          "系统UI"
+        ],
+        "name": "battery_fill",
+        "name_cn": "能量入口/电池/电量",
+        "unicode": "F0119",
+        "mirror_unicode": "F0B0B",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "bell",
+        "name_cn": "响铃、通知/铃声/铃铛",
+        "unicode": "F01D5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "查找设备",
+        "category": [
+          "系统UI"
+        ],
+        "name": "bell_fill",
+        "name_cn": "播放铃声/铃铛/响铃/通知",
+        "unicode": "F01D1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "系统UI"
+        ],
+        "name": "bell_slash",
+        "name_cn": "静音/铃声/铃铛/关闭",
+        "unicode": "F01D3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI"
+        ],
+        "name": "bell_slash_fill",
+        "name_cn": "响铃静音/铃声/铃铛/关闭",
+        "unicode": "F01D2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "bluetooth",
+        "name_cn": "检测项_蓝牙 ",
+        "unicode": "F0254",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "bluetooth_slash",
+        "name_cn": "三态开关补充/蓝牙/关闭",
+        "unicode": "F0253",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "录音机",
+        "category": [
+          "系统UI"
+        ],
+        "name": "bookmark",
+        "name_cn": "标记打点",
+        "unicode": "F000A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天际通",
+        "category": [
+          "系统UI"
+        ],
+        "name": "bookmark_fill",
+        "name_cn": "热推套餐",
+        "unicode": "F000B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "hivision/hitouch",
+        "category": [
+          "系统UI"
+        ],
+        "name": "bookmark_filled_on_bookmark",
+        "name_cn": "hitouch稍后阅读",
+        "unicode": "F065A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "畅连通话",
+        "category": [
+          "系统UI"
+        ],
+        "name": "briefcase_fill",
+        "name_cn": "保险理财",
+        "unicode": "F093E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI"
+        ],
+        "name": "brush",
+        "name_cn": "换肤/主题",
+        "unicode": "F000D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "主题",
+        "category": [
+          "系统UI"
+        ],
+        "name": "brush_fill",
+        "name_cn": "主题-选中态/换肤",
+        "unicode": "F000C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI"
+        ],
+        "name": "checkmark",
+        "name_cn": "确认/钩/勾选",
+        "unicode": "F0013",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI"
+        ],
+        "name": "checkmark_circle",
+        "name_cn": "清单/钩/勾选",
+        "unicode": "F000F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "打印和扫描",
+        "category": [
+          "系统UI"
+        ],
+        "name": "checkmark_circle_fill",
+        "name_cn": "口算批改/钩/勾选",
+        "unicode": "F000E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "checkmark_square",
+        "name_cn": "多选选/钩/勾选",
+        "unicode": "F0012",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "checkmark_square_fill",
+        "name_cn": "已选/钩/勾选",
+        "unicode": "F01DA",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI"
+        ],
+        "name": "checkmark_square_on_square",
+        "name_cn": "全选/钩/勾选",
+        "unicode": "F0011",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI"
+        ],
+        "name": "checkmark_square_on_square_fill",
+        "name_cn": "取消全选/钩/勾选",
+        "unicode": "F01D9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧屏",
+        "category": [
+          "系统UI"
+        ],
+        "name": "circle_viewfinder",
+        "name_cn": "扫一扫",
+        "unicode": "F0123",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "系统UI"
+        ],
+        "name": "clean",
+        "name_cn": "清理加速",
+        "unicode": "F0016",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "系统UI"
+        ],
+        "name": "clean_fill",
+        "name_cn": "保洁、清理",
+        "unicode": "F0015",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI"
+        ],
+        "name": "dot_grid_1x2",
+        "name_cn": "ic_more_list/更多",
+        "unicode": "F0060",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "系统UI"
+        ],
+        "name": "dot_grid_2x2",
+        "name_cn": "更多/more",
+        "unicode": "F0061",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "数据克隆",
+        "category": [
+          "系统UI"
+        ],
+        "name": "ellipsis_circle",
+        "name_cn": "其他/点/更多",
+        "unicode": "F096C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "系统UI"
+        ],
+        "name": "externaldrive",
+        "name_cn": "移动存储设备",
+        "unicode": "F00DF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "externaldrive_3",
+        "name_cn": "内存、存储",
+        "unicode": "F011D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "系统UI"
+        ],
+        "name": "externaldrive_fill",
+        "name_cn": "移动存储设备 filled",
+        "unicode": "F00DE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "系统UI"
+        ],
+        "name": "externaldrive_fill_3",
+        "name_cn": "类别/内存/存储",
+        "unicode": "F011E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "eye",
+        "name_cn": "护眼模式/眼睛",
+        "unicode": "F0120",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "eye_slash",
+        "name_cn": "密码不可见/眼睛",
+        "unicode": "F011F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "运动健康",
+        "category": [
+          "系统UI"
+        ],
+        "name": "flag",
+        "name_cn": "目标",
+        "unicode": "F01AC",
+        "mirror_unicode": "F0A8A",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "运动健康",
+        "category": [
+          "系统UI"
+        ],
+        "name": "flag_fill",
+        "name_cn": "目标",
+        "unicode": "F01AB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "flashlight_off",
+        "name_cn": "电筒关",
+        "unicode": "F001B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "锁屏AOD",
+        "category": [
+          "系统UI"
+        ],
+        "name": "flashlight_off_fill",
+        "name_cn": "手电筒关",
+        "unicode": "F001A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "flashlight_on",
+        "name_cn": "手电筒开",
+        "unicode": "F001D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "锁屏AOD",
+        "category": [
+          "系统UI"
+        ],
+        "name": "flashlight_on_fill",
+        "name_cn": "手电筒开",
+        "unicode": "F001C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "full_screen_fill",
+        "name_cn": "预览/放大/全屏/最大",
+        "unicode": "F054A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为视频",
+        "category": [
+          "系统UI"
+        ],
+        "name": "fullscreen",
+        "name_cn": "全屏",
+        "unicode": "F05B6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 6.0"
+      },
+      {
+        "module": "关爱",
+        "category": [
+          "系统UI"
+        ],
+        "name": "funnel",
+        "name_cn": "内容访问限制/筛选/沙漏",
+        "unicode": "F001E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "系统UI"
+        ],
+        "name": "gearshape",
+        "name_cn": "设置",
+        "unicode": "F0020",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "gearshape_fill",
+        "name_cn": "设置",
+        "unicode": "F001F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_point_up_tap_fill",
+        "name_cn": "点击",
+        "unicode": "F0484",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_point_up_tap_fill_1",
+        "name_cn": "显示触摸轨迹",
+        "unicode": "F0522",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_point_up_tap_fill_slash",
+        "name_cn": "关闭触摸轨迹",
+        "unicode": "F0671",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_tap",
+        "name_cn": "检测项_触摸屏 ",
+        "unicode": "F048A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_tap_fill",
+        "name_cn": "辅助功能",
+        "unicode": "F0489",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为商城",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_thumbsdown",
+        "name_cn": "不喜欢",
+        "unicode": "F05D6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_thumbsup",
+        "name_cn": "点赞",
+        "unicode": "F05D8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_thumbsup_fill",
+        "name_cn": "赞扬",
+        "unicode": "F05D7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "heart",
+        "name_cn": "取消收藏/爱心/喜欢",
+        "unicode": "F0025",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "heart_fill",
+        "name_cn": "收藏/爱心/喜欢",
+        "unicode": "F0021",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "系统UI"
+        ],
+        "name": "heart_slash",
+        "name_cn": "不喜欢/收藏/爱心",
+        "unicode": "F0024",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "主题",
+        "category": [
+          "系统UI"
+        ],
+        "name": "house",
+        "name_cn": "home/首页",
+        "unicode": "F0027",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "系统UI"
+        ],
+        "name": "house_fill",
+        "name_cn": "首页-选中/home",
+        "unicode": "F0026",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "label",
+        "name_cn": "标注",
+        "unicode": "F0208",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "锁屏AOD",
+        "category": [
+          "系统UI"
+        ],
+        "name": "line_viewfinder",
+        "name_cn": "扫一扫",
+        "unicode": "F0028",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "lock",
+        "name_cn": "关闭/锁",
+        "unicode": "F0008",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "lock_fill",
+        "name_cn": "锁",
+        "unicode": "F04C1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "控制中心",
+        "category": [
+          "系统UI"
+        ],
+        "name": "lock_filled_arrow_counterclockwise",
+        "name_cn": "旋转锁定",
+        "unicode": "F057C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "lock_open",
+        "name_cn": "开启",
+        "unicode": "F04C4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "lock_open_fill",
+        "name_cn": "解锁",
+        "unicode": "F04C3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "系统UI"
+        ],
+        "name": "magnifyingglass",
+        "name_cn": "搜索/查询/查找/search",
+        "unicode": "F0029",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "系统UI",
+          "通信"
+        ],
+        "name": "mic",
+        "name_cn": "语音/话筒/麦克风",
+        "unicode": "F0006",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI",
+          "通信"
+        ],
+        "name": "mic_fill",
+        "name_cn": "话筒/语音/麦克风",
+        "unicode": "F0315",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "系统UI",
+          "符号标识"
+        ],
+        "name": "minus",
+        "name_cn": "减少",
+        "unicode": "F002C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "minus_circle",
+        "name_cn": "移除",
+        "unicode": "F002B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "畅连联系人",
+        "category": [
+          "系统UI"
+        ],
+        "name": "minus_circle_fill",
+        "name_cn": "移除",
+        "unicode": "F002A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "系统UI"
+        ],
+        "name": "minus_magnifyingglass",
+        "name_cn": "缩小",
+        "unicode": "F0680",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "moon",
+        "name_cn": "免打扰/月亮",
+        "unicode": "F002E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "系统UI"
+        ],
+        "name": "moon_circle_fill",
+        "name_cn": "望月模式开",
+        "unicode": "F056E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI"
+        ],
+        "name": "moon_fill",
+        "name_cn": "免打扰/月亮",
+        "unicode": "F002D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "系统UI"
+        ],
+        "name": "moon_slash_circle",
+        "name_cn": "望月模式关/关闭",
+        "unicode": "F056F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI"
+        ],
+        "name": "more",
+        "name_cn": "更多",
+        "unicode": "F0570",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "桌面",
+        "category": [
+          "系统UI"
+        ],
+        "name": "more_fill",
+        "name_cn": "外屏应用",
+        "unicode": "F0C2C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "nfc",
+        "name_cn": "NFC",
+        "unicode": "F04D7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "nfc_fill",
+        "name_cn": "NFC",
+        "unicode": "F04D6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "电子邮件",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "paperplane",
+        "name_cn": "邮件发送",
+        "unicode": "F0030",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "paperplane_fill",
+        "name_cn": "邮件发送",
+        "unicode": "F002F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI"
+        ],
+        "name": "paperplane_right_fill",
+        "name_cn": "发送",
+        "unicode": "F08A8",
+        "mirror_unicode": "F0B63",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "person_fill",
+        "name_cn": "个人办事",
+        "unicode": "F05E1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "小艺建议",
+        "category": [
+          "系统UI"
+        ],
+        "name": "pin",
+        "name_cn": "取消常驻",
+        "unicode": "F0032",
+        "mirror_unicode": "F0ACC",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "小艺建议",
+        "category": [
+          "系统UI"
+        ],
+        "name": "pin_fill_1",
+        "name_cn": "设为常驻",
+        "unicode": "F08AB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "系统UI"
+        ],
+        "name": "plus",
+        "name_cn": "增加/添加",
+        "unicode": "F0035",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "畅连消息",
+        "category": [
+          "系统UI"
+        ],
+        "name": "plus_circle",
+        "name_cn": "附件区/添加/增加",
+        "unicode": "F0034",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "畅连联系人",
+        "category": [
+          "系统UI"
+        ],
+        "name": "plus_circle_fill",
+        "name_cn": "添加/增加",
+        "unicode": "F0033",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "系统UI"
+        ],
+        "name": "plus_magnifyingglass",
+        "name_cn": "放大",
+        "unicode": "F0127",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI"
+        ],
+        "name": "plus_square",
+        "name_cn": "定制工具栏",
+        "unicode": "F08C3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "plus_square_on_square",
+        "name_cn": "复制、备份/copy",
+        "unicode": "F006E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "打印和扫描",
+        "category": [
+          "系统UI"
+        ],
+        "name": "plus_square_on_square_fill",
+        "name_cn": "复印/复制/copy",
+        "unicode": "F006D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "power",
+        "name_cn": "开关机键",
+        "unicode": "F0036",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "qrcode",
+        "name_cn": "二维码",
+        "unicode": "F0128",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "rays",
+        "name_cn": "检测项_重启 /加载",
+        "unicode": "F0037",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "rectangle_and_arrowshape_turn_up_right",
+        "name_cn": "转发",
+        "unicode": "F00D5",
+        "mirror_unicode": "F0AD2",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "rectangle_portrait_rotate",
+        "name_cn": "检测项_重力感应 /旋转",
+        "unicode": "F0038",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "rectangle_portrait_wave_2",
+        "name_cn": "检测项_震动器/振动",
+        "unicode": "F0039",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "系统UI"
+        ],
+        "name": "rectangle_portrait_wave_2_fill",
+        "name_cn": "振动",
+        "unicode": "F0C40",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "教育中心",
+        "category": [
+          "系统UI"
+        ],
+        "name": "rectangle_rotate",
+        "name_cn": "切换模式/手机/旋转",
+        "unicode": "F08AD",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "redo",
+        "name_cn": "重做",
+        "unicode": "F01F4",
+        "mirror_unicode": "F01F3",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "save",
+        "name_cn": "保存",
+        "unicode": "F003B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "save_fill",
+        "name_cn": "保存",
+        "unicode": "F003A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI"
+        ],
+        "name": "share",
+        "name_cn": "分享 ",
+        "unicode": "F003D",
+        "mirror_unicode": "F0AD5",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "桌面",
+        "category": [
+          "系统UI"
+        ],
+        "name": "slider_horizontal_2",
+        "name_cn": "控制中心/调节",
+        "unicode": "F0072",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "APP",
+        "category": [
+          "系统UI"
+        ],
+        "name": "slider_vertical_3",
+        "name_cn": "呼吸节奏/调节",
+        "unicode": "F012A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker",
+        "name_cn": "音量",
+        "unicode": "F0044",
+        "mirror_unicode": "F0A0E",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_fill",
+        "name_cn": "音量降低",
+        "unicode": "F003F",
+        "mirror_unicode": "F0B2F",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_minus",
+        "name_cn": "音量下键",
+        "unicode": "F0040",
+        "mirror_unicode": "F0A10",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_plus",
+        "name_cn": "音量上键",
+        "unicode": "F0041",
+        "mirror_unicode": "F0A0F",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_slash",
+        "name_cn": "拍摄静音/关闭",
+        "unicode": "F0043",
+        "mirror_unicode": "F0A11",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "桌面 控制中心",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_slash_fill",
+        "name_cn": "静音Fill/关闭",
+        "unicode": "F0042",
+        "mirror_unicode": "F0B30",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活 ",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_wave_1",
+        "name_cn": "音量调小",
+        "unicode": "F0046",
+        "mirror_unicode": "F0B31",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活 ",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_wave_1_fill",
+        "name_cn": "音量调小fill",
+        "unicode": "F0045",
+        "mirror_unicode": "F0B32",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活 ",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_wave_2",
+        "name_cn": "音量调大",
+        "unicode": "F0048",
+        "mirror_unicode": "F0B33",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活 ",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_wave_2_fill",
+        "name_cn": "音量调大fill",
+        "unicode": "F0047",
+        "mirror_unicode": "F0B34",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_wave_3",
+        "name_cn": "检测项_扬声器/音量",
+        "unicode": "F004A",
+        "mirror_unicode": "F0A12",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "桌面 控制中心",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_wave_3_fill",
+        "name_cn": "音量Fill",
+        "unicode": "F0049",
+        "mirror_unicode": "F0B35",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "speaker_wave_3_slash",
+        "name_cn": "关闭声音",
+        "unicode": "F058F",
+        "mirror_unicode": "F0AF0",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "square_fill_grid_2x2",
+        "name_cn": "分类相册",
+        "unicode": "F004B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI"
+        ],
+        "name": "square_grid_2x2",
+        "name_cn": "检测项_应用 ",
+        "unicode": "F00E3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "系统UI"
+        ],
+        "name": "star",
+        "name_cn": "获赞与收藏/五角",
+        "unicode": "F004E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI"
+        ],
+        "name": "star_fill",
+        "name_cn": "favourites_filled/收藏/五角",
+        "unicode": "F0009",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "系统UI"
+        ],
+        "name": "star_slash",
+        "name_cn": "取消收藏",
+        "unicode": "F1239",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 6.1"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "系统UI"
+        ],
+        "name": "sun_max",
+        "name_cn": "曝光/亮度",
+        "unicode": "F0050",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为阅读",
+        "category": [
+          "系统UI"
+        ],
+        "name": "sun_max_fill",
+        "name_cn": "主题-选中态-黄",
+        "unicode": "F004F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为阅读",
+        "category": [
+          "系统UI"
+        ],
+        "name": "sun_min",
+        "name_cn": "主题-light/亮度",
+        "unicode": "F0051",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "系统UI"
+        ],
+        "name": "trash",
+        "name_cn": "删除/垃圾箱/回收站",
+        "unicode": "F0001",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "trash_fill",
+        "name_cn": "删除相册/垃圾箱/回收站",
+        "unicode": "F0052",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "undo",
+        "name_cn": "撤销",
+        "unicode": "F01F3",
+        "mirror_unicode": "F01F4",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "玩机技巧",
+        "category": [
+          "系统UI"
+        ],
+        "name": "visibility",
+        "name_cn": "阅读量",
+        "unicode": "F050A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "wifi",
+        "name_cn": "检测项_WLAN ",
+        "unicode": "F0000",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "桌面",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "wifi_slash",
+        "name_cn": "WLAN 关闭",
+        "unicode": "F0691",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "xmark",
+        "name_cn": "退出/关闭/取消/colse",
+        "unicode": "F0056",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI"
+        ],
+        "name": "xmark_circle",
+        "name_cn": "关闭/退出/取消/colse",
+        "unicode": "F0055",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI"
+        ],
+        "name": "xmark_circle_fill",
+        "name_cn": "取消/关闭/退出/colse",
+        "unicode": "F0054",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "时间": [
+      {
+        "module": "Public图标",
+        "category": [
+          "时间"
+        ],
+        "name": "alarm",
+        "name_cn": "时钟",
+        "unicode": "F03D2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "时钟",
+        "category": [
+          "时间"
+        ],
+        "name": "alarm_fill_1",
+        "name_cn": "闹钟",
+        "unicode": "F05EF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "时间"
+        ],
+        "name": "calendar",
+        "name_cn": "日历",
+        "unicode": "F03DA",
+        "mirror_unicode": "F0B0D",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "时间"
+        ],
+        "name": "calendar_badge_clock",
+        "name_cn": "预约新游/日历",
+        "unicode": "F03D8",
+        "mirror_unicode": "F0B0E",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "日历",
+        "category": [
+          "时间"
+        ],
+        "name": "calendar_fill",
+        "name_cn": "新建/日历",
+        "unicode": "F03D9",
+        "mirror_unicode": "F0B10",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "时间"
+        ],
+        "name": "clock",
+        "name_cn": "时长",
+        "unicode": "F03DD",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "APP",
+        "category": [
+          "时间"
+        ],
+        "name": "clock_fill",
+        "name_cn": "运动时间",
+        "unicode": "F03DC",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "关爱",
+        "category": [
+          "时间"
+        ],
+        "name": "hourglass",
+        "name_cn": "健康用机主页-屏幕使用管理时间",
+        "unicode": "F048E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "时间"
+        ],
+        "name": "stopwatch",
+        "name_cn": "定时",
+        "unicode": "F0401",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "时钟",
+        "category": [
+          "时间"
+        ],
+        "name": "stopwatch_2",
+        "name_cn": "秒表",
+        "unicode": "F05F0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "日历",
+        "category": [
+          "时间"
+        ],
+        "name": "stopwatch_fill",
+        "name_cn": "新建",
+        "unicode": "F0402",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "时间"
+        ],
+        "name": "timer",
+        "name_cn": "定时拍摄",
+        "unicode": "F0406",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "时钟",
+        "category": [
+          "时间"
+        ],
+        "name": "timer_circle_fill",
+        "name_cn": "计时器",
+        "unicode": "F05F6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "时间"
+        ],
+        "name": "worldclock",
+        "name_cn": "语言切换",
+        "unicode": "F040A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "时间"
+        ],
+        "name": "worldclock_fill",
+        "name_cn": "震中经纬度",
+        "unicode": "F0409",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "时钟",
+        "category": [
+          "时间"
+        ],
+        "name": "worldclock_fill_2",
+        "name_cn": "世界时钟",
+        "unicode": "F05F1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "编辑": [
+      {
+        "module": "设置外屏主题",
+        "category": [
+          "编辑"
+        ],
+        "name": "align_bottom",
+        "name_cn": "底对齐",
+        "unicode": "F09B6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置外屏主题",
+        "category": [
+          "编辑"
+        ],
+        "name": "align_center",
+        "name_cn": "居中",
+        "unicode": "F09B2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置外屏主题",
+        "category": [
+          "编辑"
+        ],
+        "name": "align_left",
+        "name_cn": "左对齐",
+        "unicode": "F09B1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置外屏主题",
+        "category": [
+          "编辑"
+        ],
+        "name": "align_middle",
+        "name_cn": "中间",
+        "unicode": "F09B5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置外屏主题",
+        "category": [
+          "编辑"
+        ],
+        "name": "align_right",
+        "name_cn": "右对齐",
+        "unicode": "F09B3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置外屏主题",
+        "category": [
+          "编辑"
+        ],
+        "name": "align_top",
+        "name_cn": "顶对齐",
+        "unicode": "F09B4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "电子邮件",
+        "category": [
+          "编辑",
+          "箭头"
+        ],
+        "name": "arrowshape_turn_up_left",
+        "name_cn": "回复",
+        "unicode": "F00D1",
+        "mirror_unicode": "F0B02",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "电子邮件",
+        "category": [
+          "编辑",
+          "箭头"
+        ],
+        "name": "arrowshape_turn_up_right",
+        "name_cn": "转发",
+        "unicode": "F0910",
+        "mirror_unicode": "F00D1",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "bold",
+        "name_cn": "加粗",
+        "unicode": "F0059",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为阅读",
+        "category": [
+          "编辑"
+        ],
+        "name": "character",
+        "name_cn": "放大字体",
+        "unicode": "F005B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "character_arrow_clockwise",
+        "name_cn": "自动优化",
+        "unicode": "F01D6",
+        "mirror_unicode": "F0AF2",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "character_viewfinder",
+        "name_cn": "文字识别",
+        "unicode": "F01D8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为笔记",
+        "category": [
+          "编辑",
+          "形状"
+        ],
+        "name": "circle_dashed",
+        "name_cn": "套索",
+        "unicode": "F0134",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "close_sidebar",
+        "name_cn": "关闭/侧边栏开关",
+        "unicode": "F089F",
+        "mirror_unicode": "F0F60",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "预览",
+        "category": [
+          "编辑"
+        ],
+        "name": "crop",
+        "name_cn": "裁剪",
+        "unicode": "F0D00",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.1+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "crop_rotate",
+        "name_cn": "裁剪",
+        "unicode": "F0161",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "cut",
+        "name_cn": "截取/剪刀",
+        "unicode": "F005F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为笔记",
+        "category": [
+          "编辑"
+        ],
+        "name": "eraser_line",
+        "name_cn": "橡皮擦",
+        "unicode": "F0065",
+        "mirror_unicode": "F0A3F",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "indent_right",
+        "name_cn": "缩进",
+        "unicode": "F0163",
+        "mirror_unicode": "F0B20",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "indentation_left",
+        "name_cn": "缩进2",
+        "unicode": "F0164",
+        "mirror_unicode": "F0B21",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "list_bullet",
+        "name_cn": "项目符号-圆点",
+        "unicode": "F0069",
+        "mirror_unicode": "F0A91",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "编辑"
+        ],
+        "name": "list_bullet_circle",
+        "name_cn": "公众号消息menu",
+        "unicode": "F0166",
+        "mirror_unicode": "F0AFF",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为商城",
+        "category": [
+          "编辑"
+        ],
+        "name": "list_bullet_square",
+        "name_cn": "订单",
+        "unicode": "F0168",
+        "mirror_unicode": "F0B73",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天生会画",
+        "category": [
+          "编辑"
+        ],
+        "name": "list_bullet_square_fill",
+        "name_cn": "属性",
+        "unicode": "F0167",
+        "mirror_unicode": "F0A92",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "编辑"
+        ],
+        "name": "list_checkmask",
+        "name_cn": "列表-列表编辑",
+        "unicode": "F0142",
+        "mirror_unicode": "F0A93",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "list_letter",
+        "name_cn": "项目符号-字母",
+        "unicode": "F0144",
+        "mirror_unicode": "F0A94",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "list_number",
+        "name_cn": "项目符号-数字",
+        "unicode": "F0143",
+        "mirror_unicode": "F0A95",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "list_square",
+        "name_cn": "项目符号-方形",
+        "unicode": "F0145",
+        "mirror_unicode": "F0A97",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "open_sidebar",
+        "name_cn": "打开/侧边栏开关",
+        "unicode": "F08A7",
+        "mirror_unicode": "F0F61",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "绘画",
+        "category": [
+          "编辑"
+        ],
+        "name": "paintbrush",
+        "name_cn": "画笔",
+        "unicode": "F07DE",
+        "mirror_unicode": "F0AA7",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "绘画",
+        "category": [
+          "编辑"
+        ],
+        "name": "paintbrush_fill",
+        "name_cn": "选中画笔",
+        "unicode": "F07DD",
+        "mirror_unicode": "F0AA6",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "绘画",
+        "category": [
+          "编辑"
+        ],
+        "name": "paintpalette_fill",
+        "name_cn": "颜色动态/色盘",
+        "unicode": "F0124",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "预览",
+        "category": [
+          "编辑"
+        ],
+        "name": "pencil_line_1",
+        "name_cn": "高亮色",
+        "unicode": "F0626",
+        "mirror_unicode": "F0A06",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "编辑"
+        ],
+        "name": "pencil_waveform",
+        "name_cn": "涂鸦",
+        "unicode": "F006C",
+        "mirror_unicode": "F0A08",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "编辑"
+        ],
+        "name": "pencil_waveform_fill",
+        "name_cn": "涂鸦-面性",
+        "unicode": "F0627",
+        "mirror_unicode": "F0A07",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "编辑"
+        ],
+        "name": "plus_square_dashed_on_square",
+        "name_cn": "粘贴",
+        "unicode": "F0151",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "rectangle_and_cut",
+        "name_cn": "截屏",
+        "unicode": "F006F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "编辑",
+          "形状"
+        ],
+        "name": "rectangle_split_3x1",
+        "name_cn": "分栏视图",
+        "unicode": "F0528",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "编辑"
+        ],
+        "name": "rename",
+        "name_cn": "重命名",
+        "unicode": "F0071",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "编辑"
+        ],
+        "name": "sort",
+        "name_cn": "备注",
+        "unicode": "F0581",
+        "mirror_unicode": "F0AF9",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "任务管理器",
+        "category": [
+          "编辑"
+        ],
+        "name": "sort_1",
+        "name_cn": "正序",
+        "unicode": "F0C4F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "square_and_pencil",
+        "name_cn": "编辑",
+        "unicode": "F0073",
+        "mirror_unicode": "F0ADA",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "square_and_pencil_fill",
+        "name_cn": "重命名相册/编辑",
+        "unicode": "F0074",
+        "mirror_unicode": "F0AD9",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "编辑"
+        ],
+        "name": "swap",
+        "name_cn": "列表-排序",
+        "unicode": "F02D1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "text_aligncenter",
+        "name_cn": "居中对齐",
+        "unicode": "F0076",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "text_alignleft",
+        "name_cn": "左对齐",
+        "unicode": "F0077",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "编辑"
+        ],
+        "name": "text_alignright",
+        "name_cn": "右对齐",
+        "unicode": "F0078",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "编辑"
+        ],
+        "name": "text_and_arrow_down",
+        "name_cn": "列表-倒序",
+        "unicode": "F0079",
+        "mirror_unicode": "F0ADF",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "编辑"
+        ],
+        "name": "text_and_arrow_up",
+        "name_cn": "列表-正序",
+        "unicode": "F007A",
+        "mirror_unicode": "F0AE0",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "编辑"
+        ],
+        "name": "textformat_size_square",
+        "name_cn": "字体大小/识别文字",
+        "unicode": "F007C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧助手",
+        "category": [
+          "编辑"
+        ],
+        "name": "textformat_size_square_fill",
+        "name_cn": "识别文字/字体大小",
+        "unicode": "F007B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天生会画",
+        "category": [
+          "编辑"
+        ],
+        "name": "transparency_lock",
+        "name_cn": "透明度锁定",
+        "unicode": "F0639",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "trapezoid_and_line_horizontal",
+        "name_cn": "水平校正",
+        "unicode": "F016A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "编辑"
+        ],
+        "name": "trapezoid_and_line_vertical",
+        "name_cn": "垂直校正",
+        "unicode": "F016B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天生会画",
+        "category": [
+          "编辑",
+          "形状"
+        ],
+        "name": "triangleshape_fill",
+        "name_cn": "稳定性",
+        "unicode": "F036B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天生会画",
+        "category": [
+          "编辑"
+        ],
+        "name": "vertical_flip",
+        "name_cn": "垂直翻转",
+        "unicode": "F063B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "箭头": [
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_2_circlepath",
+        "name_cn": "旋转、切换",
+        "unicode": "F00DC",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "电子邮件",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_clockwise",
+        "name_cn": "邮件刷新",
+        "unicode": "F00C7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_counterclockwise",
+        "name_cn": "恢复",
+        "unicode": "F00C8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "计算器",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_counterclockwise_clock",
+        "name_cn": "历史记录",
+        "unicode": "F03D5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_down",
+        "name_cn": "北斗卫星消息/向下",
+        "unicode": "F022E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_down_circle",
+        "name_cn": "下载",
+        "unicode": "F089D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_down_right_and_arrow_up_left",
+        "name_cn": "ic_reduce/缩小",
+        "unicode": "F00C9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_left",
+        "name_cn": "返回",
+        "unicode": "F00CA",
+        "mirror_unicode": "F0231",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧屏",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_left_circle",
+        "name_cn": "返回",
+        "unicode": "F069F",
+        "mirror_unicode": "F06A0",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_right",
+        "name_cn": "箭头/向右",
+        "unicode": "F0231",
+        "mirror_unicode": "F00CA",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "数据克隆",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_right_circle",
+        "name_cn": "迁移",
+        "unicode": "F06A0",
+        "mirror_unicode": "F069F",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_right_up_and_square",
+        "name_cn": "新页签打开",
+        "unicode": "F00CB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_up",
+        "name_cn": "翻页/向上",
+        "unicode": "F00CE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_up_circle",
+        "name_cn": "检查更新",
+        "unicode": "F00CC",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_up_circle_fill",
+        "name_cn": "发送/向上",
+        "unicode": "F0232",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_up_left",
+        "name_cn": "快捷填充搜索词",
+        "unicode": "F0233",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrow_up_left_and_arrow_down_right",
+        "name_cn": "放大/全屏",
+        "unicode": "F00CD",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_up_to_line",
+        "name_cn": "一键回顶",
+        "unicode": "F00CF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全场景协同",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrow_up_to_line_slash",
+        "name_cn": "多屏协同窗口顶部取消置顶/关闭",
+        "unicode": "F093D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧助手",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_3_triangle_path",
+        "name_cn": "节能",
+        "unicode": "F04F5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_down_to_line_fill",
+        "name_cn": "下载量",
+        "unicode": "F00D0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "电子邮件",
+        "category": [
+          "编辑",
+          "箭头"
+        ],
+        "name": "arrowshape_turn_up_left",
+        "name_cn": "回复",
+        "unicode": "F00D1",
+        "mirror_unicode": "F0B02",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "电子邮件",
+        "category": [
+          "编辑",
+          "箭头"
+        ],
+        "name": "arrowshape_turn_up_right",
+        "name_cn": "转发",
+        "unicode": "F0910",
+        "mirror_unicode": "F00D1",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "arrowshape_turn_up_right_fill",
+        "name_cn": "转发",
+        "unicode": "F08C2",
+        "mirror_unicode": "F0AEE",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_up",
+        "name_cn": "翻译输入",
+        "unicode": "F023D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_up_fill",
+        "name_cn": "拍摄输入",
+        "unicode": "F0239",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_up_frame",
+        "name_cn": "检查更新",
+        "unicode": "F023B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_up_frame_fill",
+        "name_cn": "换肤",
+        "unicode": "F023A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧多窗",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_up_left_and_arrowshape_down_right",
+        "name_cn": "最大化窗口",
+        "unicode": "F07EE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_up_to_line",
+        "name_cn": "置顶",
+        "unicode": "F00D3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_up_to_line_fill",
+        "name_cn": "置顶",
+        "unicode": "F0010",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "畅连消息",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowshape_up_to_line_slash_fill",
+        "name_cn": "取消置顶/关闭",
+        "unicode": "F023C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowtriangle_down_fill",
+        "name_cn": "下拉列表",
+        "unicode": "F023F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "箭头"
+        ],
+        "name": "arrowtriangle_up_fill",
+        "name_cn": "收起列表",
+        "unicode": "F0240",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_down",
+        "name_cn": "向下",
+        "unicode": "F00DB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "预览",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_down_2_circle",
+        "name_cn": "下一页",
+        "unicode": "F06C0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_down_L",
+        "name_cn": "向下",
+        "unicode": "F0EDF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.1+"
+      },
+      {
+        "module": "智慧屏",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_down_circle",
+        "name_cn": "下键",
+        "unicode": "F06C1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_left",
+        "name_cn": "返回/向左",
+        "unicode": "F00DA",
+        "mirror_unicode": "F00D9",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为阅读",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_left_2",
+        "name_cn": "滑动进入",
+        "unicode": "F06C2",
+        "mirror_unicode": "F0B4A",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧屏",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_left_circle",
+        "name_cn": "左键",
+        "unicode": "F06C3",
+        "mirror_unicode": "F06C4",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_right",
+        "name_cn": "下一步/向右",
+        "unicode": "F00D9",
+        "mirror_unicode": "F00DA",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧屏",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_right_circle",
+        "name_cn": "右键",
+        "unicode": "F06C4",
+        "mirror_unicode": "F06C3",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_up",
+        "name_cn": "向上",
+        "unicode": "F00D8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_up_2",
+        "name_cn": "上滑查看更多内容",
+        "unicode": "F06C6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "预览",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_up_2_circle",
+        "name_cn": "上一页",
+        "unicode": "F06C5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_up_L",
+        "name_cn": "向上",
+        "unicode": "F0EDE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.1+"
+      },
+      {
+        "module": "智慧屏",
+        "category": [
+          "箭头"
+        ],
+        "name": "chevron_up_circle",
+        "name_cn": "上键",
+        "unicode": "F045F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "关爱",
+        "category": [
+          "箭头"
+        ],
+        "name": "circle_and_arrow_down_fill",
+        "name_cn": "健康用机主页-使用统计",
+        "unicode": "F01F0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "箭头"
+        ],
+        "name": "download",
+        "name_cn": "附件下载",
+        "unicode": "F03EF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "箭头"
+        ],
+        "name": "line_below_arrowtriangle_up_circle_fill",
+        "name_cn": "移除设备 filled",
+        "unicode": "F0416",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "箭头"
+        ],
+        "name": "line_below_arrowtriangle_up_fill",
+        "name_cn": "移除设备",
+        "unicode": "F0417",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "电子邮件",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "paperplane",
+        "name_cn": "邮件发送",
+        "unicode": "F0030",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "rectangle_and_arrowshape_turn_up_right",
+        "name_cn": "转发",
+        "unicode": "F00D5",
+        "mirror_unicode": "F0AD2",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "redo",
+        "name_cn": "重做",
+        "unicode": "F01F4",
+        "mirror_unicode": "F01F3",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "中转站",
+        "category": [
+          "箭头"
+        ],
+        "name": "transfer_station",
+        "name_cn": "中转站",
+        "unicode": "F0788",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "箭头"
+        ],
+        "name": "undo",
+        "name_cn": "撤销",
+        "unicode": "F01F3",
+        "mirror_unicode": "F01F4",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "箭头"
+        ],
+        "name": "upload",
+        "name_cn": "上传",
+        "unicode": "F0408",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "交通出行": [
+      {
+        "module": "花瓣地图",
+        "category": [
+          "交通出行"
+        ],
+        "name": "arrow_bounce_right",
+        "name_cn": "路线选中",
+        "unicode": "F09D9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "畅连消息",
+        "category": [
+          "交通出行"
+        ],
+        "name": "local",
+        "name_cn": "位置/定位",
+        "unicode": "F01B9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "交通出行"
+        ],
+        "name": "local_fill",
+        "name_cn": "定位/位置",
+        "unicode": "F01B8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "交通出行"
+        ],
+        "name": "local_slash_fill",
+        "name_cn": "禁用GPS/关闭",
+        "unicode": "F0954",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "交通出行"
+        ],
+        "name": "location_north_up_right_circle_fill",
+        "name_cn": "距震中距离",
+        "unicode": "F080D",
+        "mirror_unicode": "F0F64",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "车主App",
+        "category": [
+          "交通出行"
+        ],
+        "name": "location_up",
+        "name_cn": "导航",
+        "unicode": "F01BF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "交通出行"
+        ],
+        "name": "location_up_fill",
+        "name_cn": "导航",
+        "unicode": "F01BE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "运动健康",
+        "category": [
+          "交通出行"
+        ],
+        "name": "map",
+        "name_cn": "显示地图",
+        "unicode": "F01C2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "查找设备",
+        "category": [
+          "交通出行"
+        ],
+        "name": "map_badge_local",
+        "name_cn": "地图",
+        "unicode": "F01C0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "运动健康",
+        "category": [
+          "交通出行"
+        ],
+        "name": "map_slash",
+        "name_cn": "隐藏地图/关闭",
+        "unicode": "F01C3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "查找设备",
+        "category": [
+          "交通出行"
+        ],
+        "name": "navigation",
+        "name_cn": "导航",
+        "unicode": "F0810",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "交通出行"
+        ],
+        "name": "position",
+        "name_cn": "设置/定位/跟踪",
+        "unicode": "F01CA",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "钱包",
+        "category": [
+          "交通出行"
+        ],
+        "name": "route_plan",
+        "name_cn": "路线规划",
+        "unicode": "F07E4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "运动健康",
+        "category": [
+          "交通出行"
+        ],
+        "name": "satellite_map",
+        "name_cn": "隐藏卫星地图",
+        "unicode": "F0775",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "运动健康",
+        "category": [
+          "交通出行"
+        ],
+        "name": "satellite_map_fill",
+        "name_cn": "显示卫星地图",
+        "unicode": "F0774",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "相机与照片": [
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "arrow_down_and_rectangle_on_rectangle",
+        "name_cn": "移出相册",
+        "unicode": "F041D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "arrow_up_and_rectangle_on_rectangle",
+        "name_cn": "移入相册",
+        "unicode": "F0420",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "SDK",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "camera",
+        "name_cn": "拍照",
+        "unicode": "F045B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "camera_fill",
+        "name_cn": "拍照",
+        "unicode": "F0438",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天生会画",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "camera_filters_fill",
+        "name_cn": "选中滤镜",
+        "unicode": "F082C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "camera_slash_fill",
+        "name_cn": "禁用相机/关闭",
+        "unicode": "F0940",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片",
+          "人物"
+        ],
+        "name": "capture_smiles",
+        "name_cn": "笑脸抓拍",
+        "unicode": "F05C8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "circle_lefthalf_inset_filled",
+        "name_cn": "黑白",
+        "unicode": "F005C",
+        "mirror_unicode": "F0B42",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "circle_righthalf_inset_filled",
+        "name_cn": "饱和度",
+        "unicode": "F005D",
+        "mirror_unicode": "F0B43",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "桌面 控制中心",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "dot_video",
+        "name_cn": "正在录制/录屏/视频",
+        "unicode": "F0083",
+        "mirror_unicode": "F0B18",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "控制中心",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "dot_video_fill",
+        "name_cn": "录屏/录制/视频",
+        "unicode": "F0082",
+        "mirror_unicode": "F0AF3",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "drop",
+        "name_cn": "虚化",
+        "unicode": "F0063",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "drop_bottomrighthalf_inset_filled",
+        "name_cn": "自然饱和度",
+        "unicode": "F0136",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "flower",
+        "name_cn": "超级微距",
+        "unicode": "F0284",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片",
+          "人物"
+        ],
+        "name": "hand_draw",
+        "name_cn": "智选消除",
+        "unicode": "F0066",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "heart_square_stack_fill",
+        "name_cn": "时刻",
+        "unicode": "F0514",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "lightbulb",
+        "name_cn": "开启柔关灯",
+        "unicode": "F029C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "lightbulb_slash",
+        "name_cn": "关闭柔关灯",
+        "unicode": "F029A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "line_arrowtriangle_2_inward",
+        "name_cn": "自拍镜像",
+        "unicode": "F0068",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "livephoto",
+        "name_cn": "动态照片",
+        "unicode": "F05F7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "livephoto_slash",
+        "name_cn": "关闭动态照片",
+        "unicode": "F04BE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "movie",
+        "name_cn": "胶卷",
+        "unicode": "F04D4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "movie_fill",
+        "name_cn": "观影",
+        "unicode": "F04D2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "paintpalette",
+        "name_cn": "色调/色盘",
+        "unicode": "F0125",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "picture",
+        "name_cn": "图片",
+        "unicode": "F0003",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "picture_2",
+        "name_cn": "从图库中选择",
+        "unicode": "F04E5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "picture_damage",
+        "name_cn": "检测项_应用 ",
+        "unicode": "F04E9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "picture_fill",
+        "name_cn": "图片",
+        "unicode": "F04EA",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "play_video",
+        "name_cn": "微电影/视频",
+        "unicode": "F04EE",
+        "mirror_unicode": "F0AF5",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "play_video_fill",
+        "name_cn": "脚本/视频",
+        "unicode": "F08AC",
+        "mirror_unicode": "F0AF4",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "puzzle",
+        "name_cn": "拼图",
+        "unicode": "F04A0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "puzzle_fill",
+        "name_cn": "拼图",
+        "unicode": "F04B5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "rectangle_on_rectangle",
+        "name_cn": "相册",
+        "unicode": "F04A2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "rectangle_on_rectangle_fill",
+        "name_cn": "相册",
+        "unicode": "F04A1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "resolution_video",
+        "name_cn": "视频分辨率",
+        "unicode": "F04A3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "scope",
+        "name_cn": "开启目标追踪",
+        "unicode": "F04A6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "scope_slash",
+        "name_cn": "关闭目标追踪",
+        "unicode": "F04A5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "shutter_photo",
+        "name_cn": "图库入口",
+        "unicode": "F04AF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "square_slash",
+        "name_cn": "无边框",
+        "unicode": "F04B4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为视频",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "template",
+        "name_cn": "热剧",
+        "unicode": "F04FF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天际通",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "template_fill",
+        "name_cn": "视频",
+        "unicode": "F04FE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "仪表",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "video",
+        "name_cn": "行车记录仪/视频",
+        "unicode": "F00A4",
+        "mirror_unicode": "F0B38",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "video_fill",
+        "name_cn": "视频",
+        "unicode": "F00A3",
+        "mirror_unicode": "F0AFC",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "video_slasj_fill",
+        "name_cn": "关闭摄像头",
+        "unicode": "F0841",
+        "mirror_unicode": "F0ADE",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "xmark_picture",
+        "name_cn": "开启智能无图",
+        "unicode": "F0842",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "相机与照片"
+        ],
+        "name": "xmark_picture_fill",
+        "name_cn": "关闭智能无图",
+        "unicode": "F0821",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "办公文件": [
+      {
+        "module": "邮件",
+        "category": [
+          "办公文件"
+        ],
+        "name": "arrow_right_folder_circle",
+        "name_cn": "移至/文件",
+        "unicode": "F00BA",
+        "mirror_unicode": "F0A27",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "办公文件"
+        ],
+        "name": "arrow_right_folder_fill",
+        "name_cn": "移至/文件",
+        "unicode": "F00BB",
+        "mirror_unicode": "F0A28",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为阅读",
+        "category": [
+          "办公文件"
+        ],
+        "name": "book_open_fill",
+        "name_cn": "书城-选中",
+        "unicode": "F07C9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "办公文件"
+        ],
+        "name": "book_pages_fill_1",
+        "name_cn": "小说",
+        "unicode": "F08BF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "办公文件"
+        ],
+        "name": "briefcase",
+        "name_cn": "工具箱",
+        "unicode": "F065F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "办公文件"
+        ],
+        "name": "case_fill",
+        "name_cn": "保险理财",
+        "unicode": "F0660",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "办公文件"
+        ],
+        "name": "checkmark_clipboard",
+        "name_cn": "问卷调查/钩/勾选",
+        "unicode": "F018B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "办公文件"
+        ],
+        "name": "checkmark_clipboard_fill",
+        "name_cn": "开发/钩/勾选",
+        "unicode": "F018A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc",
+        "name_cn": "草稿箱",
+        "unicode": "F00BD",
+        "mirror_unicode": "F0A2F",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_plaintext",
+        "name_cn": "ic_notes/文本/文件",
+        "unicode": "F00C1",
+        "mirror_unicode": "F0A34",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "教育中心",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_plaintext_and_pencil",
+        "name_cn": "问题与建议",
+        "unicode": "F05AF",
+        "mirror_unicode": "F0A32",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "教育中心",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_plaintext_and_pencil_fill",
+        "name_cn": "写作业",
+        "unicode": "F0669",
+        "mirror_unicode": "F0A31",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "锁屏AOD",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_plaintext_fill",
+        "name_cn": "备忘录/文本/文件",
+        "unicode": "F00C2",
+        "mirror_unicode": "F0A33",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_text",
+        "name_cn": "日志/文本/文件",
+        "unicode": "F00BC",
+        "mirror_unicode": "F0A3B",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "钱包",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_text_badge_arrow_up",
+        "name_cn": "上报征信",
+        "unicode": "F05B1",
+        "mirror_unicode": "F0A36",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_text_badge_checkmark",
+        "name_cn": "已完成/钩/文本/文件",
+        "unicode": "F00C4",
+        "mirror_unicode": "F0A37",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_text_badge_magnifyingglass",
+        "name_cn": "页内查找、搜索/查询",
+        "unicode": "F05B3",
+        "mirror_unicode": "F0A39",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "办公文件"
+        ],
+        "name": "doc_text_fill",
+        "name_cn": "文件/文本/文件",
+        "unicode": "F00BF",
+        "mirror_unicode": "F0A3A",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "控制中心",
+        "category": [
+          "办公文件"
+        ],
+        "name": "ebook",
+        "name_cn": "电子书",
+        "unicode": "F0998",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "办公文件"
+        ],
+        "name": "folder",
+        "name_cn": "存储/文件",
+        "unicode": "F00C5",
+        "mirror_unicode": "F0A1F",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "办公文件"
+        ],
+        "name": "folder_badge_arrow_left",
+        "name_cn": "保密柜 - 移入保密柜",
+        "unicode": "F05BC",
+        "mirror_unicode": "F0B1D",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "办公文件"
+        ],
+        "name": "folder_badge_ellipsis",
+        "name_cn": "复制 - 其他位置/文件",
+        "unicode": "F096B",
+        "mirror_unicode": "F0B1E",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "办公文件"
+        ],
+        "name": "folder_badge_eye",
+        "name_cn": "显示隐藏文件夹",
+        "unicode": "F05BD",
+        "mirror_unicode": "F0A1C",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为笔记",
+        "category": [
+          "办公文件"
+        ],
+        "name": "folder_badge_plus",
+        "name_cn": "新建文件夹",
+        "unicode": "F0004",
+        "mirror_unicode": "F0A1D",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "办公文件"
+        ],
+        "name": "folder_fill",
+        "name_cn": "工作/文件",
+        "unicode": "F00C6",
+        "mirror_unicode": "F0A1E",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "办公文件"
+        ],
+        "name": "form",
+        "name_cn": "表格",
+        "unicode": "F0194",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天生会画",
+        "category": [
+          "办公文件"
+        ],
+        "name": "grid",
+        "name_cn": "网格",
+        "unicode": "F0670",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为视频",
+        "category": [
+          "办公文件"
+        ],
+        "name": "list_square_bill",
+        "name_cn": "服务协议",
+        "unicode": "F05BF",
+        "mirror_unicode": "F0A96",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "办公文件"
+        ],
+        "name": "paperclip",
+        "name_cn": "附件",
+        "unicode": "F010F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "办公文件"
+        ],
+        "name": "text_clipboard",
+        "name_cn": "设置",
+        "unicode": "F019D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "办公文件"
+        ],
+        "name": "text_clipboard_fill",
+        "name_cn": "剪贴板-面性",
+        "unicode": "F0BBF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "键盘": [
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "asterisk_rectangle_badge_handwritten",
+        "name_cn": "手写",
+        "unicode": "F02EE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "celiakeyboard_elevate",
+        "name_cn": "键盘抬高",
+        "unicode": "F0492",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "celiakeyboard_mechanical",
+        "name_cn": "机械键盘",
+        "unicode": "F02F2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "celiakeyboard_menu_icon_size",
+        "name_cn": "编辑键盘",
+        "unicode": "F02F3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "键盘"
+        ],
+        "name": "delete_left",
+        "name_cn": "删除/关闭",
+        "unicode": "F00DD",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "键盘"
+        ],
+        "name": "delete_left_fill",
+        "name_cn": "删除/关闭",
+        "unicode": "F0541",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "input_mode",
+        "name_cn": "输入方式",
+        "unicode": "F0494",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard",
+        "name_cn": "拇指模式",
+        "unicode": "F0310",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_bihua",
+        "name_cn": "支持的医院",
+        "unicode": "F0302",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_cangjie",
+        "name_cn": "笔画",
+        "unicode": "F0303",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_combination",
+        "name_cn": "双拼",
+        "unicode": "F09BE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_gearshape",
+        "name_cn": "仓颉",
+        "unicode": "F0304",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_handwritten",
+        "name_cn": "键盘设置",
+        "unicode": "F0306",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_mic",
+        "name_cn": "语音键盘",
+        "unicode": "F0C1E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_spell",
+        "name_cn": "键盘手写",
+        "unicode": "F0307",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_wubi",
+        "name_cn": "拼音",
+        "unicode": "F0308",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_badge_zhuyin",
+        "name_cn": "五笔",
+        "unicode": "F0309",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_circle",
+        "name_cn": "键盘",
+        "unicode": "F0172",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_fill",
+        "name_cn": "注音",
+        "unicode": "F030B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_onehanded_left",
+        "name_cn": "键盘",
+        "unicode": "F030C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_onehanded_right",
+        "name_cn": "右手模式",
+        "unicode": "F030D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_square",
+        "name_cn": "左手模式",
+        "unicode": "F030E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "keyboard_thumbmode",
+        "name_cn": "悬浮键盘",
+        "unicode": "F030F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "onehand",
+        "name_cn": "单手模式",
+        "unicode": "F0318",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "手写笔",
+        "category": [
+          "键盘"
+        ],
+        "name": "return_down_left",
+        "name_cn": "手写笔",
+        "unicode": "F031A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "selector",
+        "name_cn": "编辑光标移动",
+        "unicode": "F031B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "space_1",
+        "name_cn": "空格",
+        "unicode": "F031C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "swipeup_input",
+        "name_cn": "上滑输入",
+        "unicode": "F031E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "键盘"
+        ],
+        "name": "traditional_square",
+        "name_cn": "繁体输入",
+        "unicode": "F0322",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "hivision/hitouch",
+        "category": [
+          "键盘"
+        ],
+        "name": "translate",
+        "name_cn": "hitouch全屏翻译",
+        "unicode": "F007E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "键盘"
+        ],
+        "name": "translate_c2e",
+        "name_cn": "ic_translate_c2e/翻译",
+        "unicode": "F0323",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "键盘"
+        ],
+        "name": "translate_e2c",
+        "name_cn": "ic_translate_e2c/翻译",
+        "unicode": "F0324",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "媒体": [
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "backward_end_fill",
+        "name_cn": "上一首",
+        "unicode": "F00A6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "媒体"
+        ],
+        "name": "discover_fill",
+        "name_cn": "发现",
+        "unicode": "F01DB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为视频",
+        "category": [
+          "媒体"
+        ],
+        "name": "fast_forward",
+        "name_cn": "倍速快进",
+        "unicode": "F066B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "forward_end_fill",
+        "name_cn": "下一首",
+        "unicode": "F00A7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "gobackward_15",
+        "name_cn": "深浅自适应",
+        "unicode": "F03F2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "gobackward_30",
+        "name_cn": "快退15s",
+        "unicode": "F03F3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "goforward_10",
+        "name_cn": "快退30s",
+        "unicode": "F03F4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "goforward_15",
+        "name_cn": "快进10s",
+        "unicode": "F03F5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "goforward_30",
+        "name_cn": "快进15s",
+        "unicode": "F03F6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "媒体"
+        ],
+        "name": "headphones_fill",
+        "name_cn": "头戴耳机",
+        "unicode": "F0672",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "媒体"
+        ],
+        "name": "identify_song",
+        "name_cn": "听歌识曲",
+        "unicode": "F033B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "媒体"
+        ],
+        "name": "list_interrupt",
+        "name_cn": "列表-节奏",
+        "unicode": "F033C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全场景协同",
+        "category": [
+          "媒体"
+        ],
+        "name": "media_center",
+        "name_cn": "播控中心",
+        "unicode": "F067C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "媒体"
+        ],
+        "name": "music",
+        "name_cn": "音乐",
+        "unicode": "F00AD",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "媒体"
+        ],
+        "name": "music_fill",
+        "name_cn": "音乐",
+        "unicode": "F00AA",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "媒体"
+        ],
+        "name": "music_note_list",
+        "name_cn": "播放队列",
+        "unicode": "F00AC",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "媒体"
+        ],
+        "name": "order_play",
+        "name_cn": "顺序播放",
+        "unicode": "F00AE",
+        "mirror_unicode": "F0AA5",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "pause",
+        "name_cn": "暂停",
+        "unicode": "F00B1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "媒体"
+        ],
+        "name": "pause_circle",
+        "name_cn": "暂停",
+        "unicode": "F00B0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "媒体"
+        ],
+        "name": "pause_round_triangle_fill",
+        "name_cn": "暂停",
+        "unicode": "F086B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "媒体"
+        ],
+        "name": "play_circle",
+        "name_cn": "播放",
+        "unicode": "F00B3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "媒体"
+        ],
+        "name": "play_circle_fill",
+        "name_cn": "播放",
+        "unicode": "F00B2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "播控",
+        "category": [
+          "媒体"
+        ],
+        "name": "play_fill",
+        "name_cn": "播放",
+        "unicode": "F00B4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "媒体"
+        ],
+        "name": "play_hexagon_fill",
+        "name_cn": "视频",
+        "unicode": "F0813",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为视频",
+        "category": [
+          "媒体"
+        ],
+        "name": "play_round_rectangle_fill",
+        "name_cn": "短视频",
+        "unicode": "F0814",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "媒体"
+        ],
+        "name": "record_circle",
+        "name_cn": "语音视频消息",
+        "unicode": "F00B7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "媒体"
+        ],
+        "name": "remove_songlist",
+        "name_cn": "从列表移除",
+        "unicode": "F0363",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "媒体"
+        ],
+        "name": "repeat",
+        "name_cn": "循环播放",
+        "unicode": "F00B8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "媒体"
+        ],
+        "name": "repeat_1",
+        "name_cn": "单曲循环",
+        "unicode": "F00B9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "预览",
+        "category": [
+          "媒体"
+        ],
+        "name": "repeat_slash",
+        "name_cn": "关闭循环",
+        "unicode": "F104C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 6.0"
+      },
+      {
+        "module": "智慧多窗",
+        "category": [
+          "媒体"
+        ],
+        "name": "reverse_order",
+        "name_cn": "切换分屏位置",
+        "unicode": "F03FD",
+        "mirror_unicode": "F0AD3",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "钱包",
+        "category": [
+          "媒体"
+        ],
+        "name": "service",
+        "name_cn": "客服",
+        "unicode": "F0365",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "媒体"
+        ],
+        "name": "shuffle",
+        "name_cn": "随机播放",
+        "unicode": "F00B5",
+        "mirror_unicode": "F0AD6",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "录音机",
+        "category": [
+          "媒体"
+        ],
+        "name": "skip_silence",
+        "name_cn": "跳过静音",
+        "unicode": "F03BB",
+        "mirror_unicode": "F0AF6",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "时钟",
+        "category": [
+          "媒体"
+        ],
+        "name": "stop_circle",
+        "name_cn": "时钟",
+        "unicode": "F0C56",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "媒体"
+        ],
+        "name": "stop_circle_fill",
+        "name_cn": "停止录屏",
+        "unicode": "F09AF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "通信": [
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "beidou_satellite_circle_fill",
+        "name_cn": "畅连北斗卫星",
+        "unicode": "F0516",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "beidou_satellite_fill",
+        "name_cn": "北斗卫星消息",
+        "unicode": "F06AD",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "畅连消息",
+        "category": [
+          "通信"
+        ],
+        "name": "checkmark_message_fill",
+        "name_cn": "已读/钩/勾选/信息/消息",
+        "unicode": "F0941",
+        "mirror_unicode": "F0B05",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "dial",
+        "name_cn": "拨号盘_加粗",
+        "unicode": "F0081",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "主题",
+        "category": [
+          "通信"
+        ],
+        "name": "ellipsis_bubble",
+        "name_cn": "评论",
+        "unicode": "F0473",
+        "mirror_unicode": "F0A0A",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "通信"
+        ],
+        "name": "ellipsis_message",
+        "name_cn": "系统消息/对话",
+        "unicode": "F0085",
+        "mirror_unicode": "F0A0C",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "信息",
+        "category": [
+          "通信"
+        ],
+        "name": "ellipsis_message_badge_circle",
+        "name_cn": "标记未读",
+        "unicode": "F10AD",
+        "mirror_unicode": "F0F6E",
+        "support_version": "HarmonyOS 6.0"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "ellipsis_message_fill",
+        "name_cn": "消息/对话",
+        "unicode": "F0084",
+        "mirror_unicode": "F0A0B",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "通信"
+        ],
+        "name": "envelope",
+        "name_cn": "消息/邮件",
+        "unicode": "F0088",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "通信"
+        ],
+        "name": "envelope_badge_arrow_left",
+        "name_cn": "回复/邮件",
+        "unicode": "F0086",
+        "mirror_unicode": "F0A03",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "通信"
+        ],
+        "name": "envelope_badge_arrow_right",
+        "name_cn": "转发/邮件",
+        "unicode": "F0087",
+        "mirror_unicode": "F0A04",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "通信"
+        ],
+        "name": "envelope_badge_dot_fill",
+        "name_cn": "邮件/消息",
+        "unicode": "F09B8",
+        "mirror_unicode": "F0B6E",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "通信"
+        ],
+        "name": "envelope_fill",
+        "name_cn": "邮件/消息",
+        "unicode": "F0089",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "envelope_open",
+        "name_cn": "打开邮件",
+        "unicode": "F008B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.1+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "通信"
+        ],
+        "name": "envelope_open_fill",
+        "name_cn": "标记为已读/消息/邮件",
+        "unicode": "F008A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "hd_square_fill",
+        "name_cn": "HD",
+        "unicode": "F028A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "通信"
+        ],
+        "name": "message",
+        "name_cn": "短信/信息/消息",
+        "unicode": "F008F",
+        "mirror_unicode": "F0A9E",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "通信"
+        ],
+        "name": "message_badge_gearshape_1",
+        "name_cn": "消息管理/信息/消息/设置",
+        "unicode": "F0756",
+        "mirror_unicode": "F0A9C",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "通信"
+        ],
+        "name": "message_fill",
+        "name_cn": "信息/短信/消息",
+        "unicode": "F008C",
+        "mirror_unicode": "F0B25",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "message_on_message",
+        "name_cn": "畅连消息/信息/消息",
+        "unicode": "F008E",
+        "mirror_unicode": "F0AA0",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "message_on_message_fill",
+        "name_cn": "消息tab/信息/消息",
+        "unicode": "F008D",
+        "mirror_unicode": "F0A9F",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "系统UI",
+          "通信"
+        ],
+        "name": "mic",
+        "name_cn": "语音/话筒/麦克风",
+        "unicode": "F0006",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧屏",
+        "category": [
+          "通信"
+        ],
+        "name": "mic_circle",
+        "name_cn": "语音/话筒/麦克风",
+        "unicode": "F0314",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI",
+          "通信"
+        ],
+        "name": "mic_fill",
+        "name_cn": "话筒/语音/麦克风",
+        "unicode": "F0315",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "mic_slash",
+        "name_cn": "静音/关闭",
+        "unicode": "F0758",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "mic_slash_fill",
+        "name_cn": "静音-面性/话筒/麦克风/关闭",
+        "unicode": "F0317",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "车控设置",
+        "category": [
+          "通信"
+        ],
+        "name": "phone",
+        "name_cn": "通话音量/电话",
+        "unicode": "F009A",
+        "mirror_unicode": "F0B2A",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "phone_down_fill",
+        "name_cn": "挂断/电话",
+        "unicode": "F009F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "通信"
+        ],
+        "name": "phone_fill",
+        "name_cn": "童话/电话",
+        "unicode": "F009E",
+        "mirror_unicode": "F0AC5",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通话",
+        "category": [
+          "通信"
+        ],
+        "name": "phone_fill_slash",
+        "name_cn": "通话不可用/电话/关闭",
+        "unicode": "F0957",
+        "mirror_unicode": "F0B6D",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "recordingtape",
+        "name_cn": "语音信箱",
+        "unicode": "F0176",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "recordingtape_rectangle",
+        "name_cn": "语音信箱",
+        "unicode": "F0175",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "recordingtape_rectangle_fill",
+        "name_cn": "语音信箱",
+        "unicode": "F0174",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "通信"
+        ],
+        "name": "satellite",
+        "name_cn": "天通卫星",
+        "unicode": "F0177",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "连接": [
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "bluetooth",
+        "name_cn": "检测项_蓝牙 ",
+        "unicode": "F0254",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "bluetooth_slash",
+        "name_cn": "三态开关补充/蓝牙/关闭",
+        "unicode": "F0253",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "数据克隆",
+        "category": [
+          "连接"
+        ],
+        "name": "cloud_and_arrow_down",
+        "name_cn": "从云备份下载",
+        "unicode": "F00D7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "连接"
+        ],
+        "name": "cloud_and_arrow_up",
+        "name_cn": "云上传",
+        "unicode": "F0241",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全场景协同",
+        "category": [
+          "连接"
+        ],
+        "name": "dot_radiowaves_left_and_right",
+        "name_cn": "分享",
+        "unicode": "F0279",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "云空间",
+        "category": [
+          "连接"
+        ],
+        "name": "exclamationmark_cloud_fill",
+        "name_cn": "异常",
+        "unicode": "F03F1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.1+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "hotspot",
+        "name_cn": "智能热点",
+        "unicode": "F028F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "连接"
+        ],
+        "name": "icloud",
+        "name_cn": "云开启",
+        "unicode": "F0294",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "连接"
+        ],
+        "name": "icloud_slash",
+        "name_cn": "云关闭",
+        "unicode": "F0293",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "连接"
+        ],
+        "name": "icloud_slash_fill",
+        "name_cn": "云关闭",
+        "unicode": "F0292",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "车控设置",
+        "category": [
+          "连接"
+        ],
+        "name": "link",
+        "name_cn": "连接入口",
+        "unicode": "F02A1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "打印和扫描",
+        "category": [
+          "连接"
+        ],
+        "name": "link_slash",
+        "name_cn": "断开连接",
+        "unicode": "F02A0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "连接"
+        ],
+        "name": "mobiledata",
+        "name_cn": "检测项_移动网络/数据",
+        "unicode": "F02A9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "连接"
+        ],
+        "name": "nearlink",
+        "name_cn": "隐私和安全星闪权限",
+        "unicode": "F075C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "nfc",
+        "name_cn": "NFC",
+        "unicode": "F04D7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "nfc_fill",
+        "name_cn": "NFC",
+        "unicode": "F04D6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "wifi",
+        "name_cn": "检测项_WLAN ",
+        "unicode": "F0000",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "wifi_6",
+        "name_cn": "ic_statusbar_wifi6",
+        "unicode": "F08B9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "wifi_6_badge_exclamationmark",
+        "name_cn": "ic_wifi6_error",
+        "unicode": "F08BB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "wifi_6_badge_lock",
+        "name_cn": "ic_statusbar_wifi6_lock",
+        "unicode": "F08BA",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "wifi_6plus",
+        "name_cn": "ic_statusbar_wifi6+",
+        "unicode": "F08B6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "wifi_6plus_badge_exclamationmark",
+        "name_cn": "ic_wifi6+_error",
+        "unicode": "F08B8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "wifi_6plus_badge_lock",
+        "name_cn": "ic_statusbar_wifi6+_lock",
+        "unicode": "F08B7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "wifi_badge_exclamationmark",
+        "name_cn": "ic_wifi_error",
+        "unicode": "F08B5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "设置",
+        "category": [
+          "连接"
+        ],
+        "name": "wifi_badge_lock",
+        "name_cn": "ic_wifi_lock",
+        "unicode": "F08B4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "桌面",
+        "category": [
+          "系统UI",
+          "连接"
+        ],
+        "name": "wifi_slash",
+        "name_cn": "WLAN 关闭",
+        "unicode": "F0691",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "符号标识": [
+      {
+        "module": "钱包",
+        "category": [
+          "符号标识"
+        ],
+        "name": "bolt",
+        "name_cn": "电费",
+        "unicode": "F0262",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "钱包",
+        "category": [
+          "符号标识"
+        ],
+        "name": "bolt_fill",
+        "name_cn": "电费",
+        "unicode": "F0916",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "APP",
+        "category": [
+          "符号标识"
+        ],
+        "name": "bolt_filled_on_circle",
+        "name_cn": "功率",
+        "unicode": "F025F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "符号标识"
+        ],
+        "name": "bolt_shield_fill",
+        "name_cn": "应急预警",
+        "unicode": "F07F1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "锁屏AOD",
+        "category": [
+          "符号标识"
+        ],
+        "name": "calculator_1",
+        "name_cn": "计算器",
+        "unicode": "F085F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "备忘录",
+        "category": [
+          "符号标识"
+        ],
+        "name": "exclamationmark",
+        "name_cn": "ic_importance/感叹号",
+        "unicode": "F010B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "符号标识"
+        ],
+        "name": "exclamationmark_circle",
+        "name_cn": "异常、错误/感叹号",
+        "unicode": "F0109",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全场景协同",
+        "category": [
+          "符号标识"
+        ],
+        "name": "exclamationmark_circle_fill",
+        "name_cn": "服务互通失败弹窗/异常/错误",
+        "unicode": "F0108",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "浏览器",
+        "category": [
+          "符号标识"
+        ],
+        "name": "exclamationmark_shield_fill",
+        "name_cn": "恶意网址拦截",
+        "unicode": "F0477",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "符号标识"
+        ],
+        "name": "exclamationmark_triangle",
+        "name_cn": "内容举报/感叹号",
+        "unicode": "F010A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "符号标识"
+        ],
+        "name": "exclamationmark_triangle_fill",
+        "name_cn": "警示",
+        "unicode": "F06D7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "符号标识"
+        ],
+        "name": "info_circle",
+        "name_cn": "模式详情",
+        "unicode": "F0296",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "符号标识"
+        ],
+        "name": "info_circle_fill",
+        "name_cn": "详情、关于",
+        "unicode": "F0295",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "符号标识"
+        ],
+        "name": "info_shield",
+        "name_cn": "隐私声明",
+        "unicode": "F0297",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "系统UI",
+          "符号标识"
+        ],
+        "name": "minus",
+        "name_cn": "减少",
+        "unicode": "F002C",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "符号标识"
+        ],
+        "name": "nosign",
+        "name_cn": "关闭/禁止/禁用",
+        "unicode": "F010E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "畅连联系人",
+        "category": [
+          "符号标识"
+        ],
+        "name": "nosign_fill",
+        "name_cn": "加入黑名单/禁止/禁用/关闭",
+        "unicode": "F010D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "符号标识"
+        ],
+        "name": "questionmark_circle",
+        "name_cn": "帮助与客服/帮助、疑问、问题",
+        "unicode": "F0100",
+        "mirror_unicode": "F0ACD",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "符号标识"
+        ],
+        "name": "questionmark_circle_fill",
+        "name_cn": "帮助、疑问、问题/帮助与客服",
+        "unicode": "F00FF",
+        "mirror_unicode": "F0B2B",
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "人物": [
+      {
+        "module": "相机",
+        "category": [
+          "相机与照片",
+          "人物"
+        ],
+        "name": "capture_smiles",
+        "name_cn": "笑脸抓拍",
+        "unicode": "F05C8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为视频",
+        "category": [
+          "人物"
+        ],
+        "name": "children",
+        "name_cn": "少儿",
+        "unicode": "F0663",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "APP",
+        "category": [
+          "人物"
+        ],
+        "name": "ear",
+        "name_cn": "聆听",
+        "unicode": "F05C9",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "人物"
+        ],
+        "name": "face",
+        "name_cn": "人脸识别",
+        "unicode": "F05CA",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "人物"
+        ],
+        "name": "face_fill",
+        "name_cn": "面部",
+        "unicode": "F05CB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "花瓣地图",
+        "category": [
+          "人物"
+        ],
+        "name": "face_sading",
+        "name_cn": "不满意",
+        "unicode": "F05CC",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "人物"
+        ],
+        "name": "face_smiling",
+        "name_cn": "表情符号和人物",
+        "unicode": "F05D0",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "人物"
+        ],
+        "name": "face_smiling_fill",
+        "name_cn": "表情",
+        "unicode": "F05CF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "运动健康",
+        "category": [
+          "人物"
+        ],
+        "name": "figure_arms_open",
+        "name_cn": "站立",
+        "unicode": "F05D1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧助手",
+        "category": [
+          "人物"
+        ],
+        "name": "figure_running",
+        "name_cn": "运动",
+        "unicode": "F07D5",
+        "mirror_unicode": "F0A72",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "相机与照片",
+          "人物"
+        ],
+        "name": "hand_draw",
+        "name_cn": "智选消除",
+        "unicode": "F0066",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_point_up_tap_fill",
+        "name_cn": "点击",
+        "unicode": "F0484",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_point_up_tap_fill_1",
+        "name_cn": "显示触摸轨迹",
+        "unicode": "F0522",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_point_up_tap_fill_slash",
+        "name_cn": "关闭触摸轨迹",
+        "unicode": "F0671",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "隐私&安全",
+          "人物"
+        ],
+        "name": "hand_raised_hexagon",
+        "name_cn": "拦截规则/手",
+        "unicode": "F0743",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "隐私&安全",
+          "人物"
+        ],
+        "name": "hand_raised_hexagon_fill",
+        "name_cn": "骚扰电话",
+        "unicode": "F0487",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_tap",
+        "name_cn": "检测项_触摸屏 ",
+        "unicode": "F048A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "Public图标",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_tap_fill",
+        "name_cn": "辅助功能",
+        "unicode": "F0489",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为商城",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_thumbsdown",
+        "name_cn": "不喜欢",
+        "unicode": "F05D6",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为音乐",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_thumbsup",
+        "name_cn": "点赞",
+        "unicode": "F05D8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "hand_thumbsup_fill",
+        "name_cn": "赞扬",
+        "unicode": "F05D7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "人物"
+        ],
+        "name": "person",
+        "name_cn": "账号",
+        "unicode": "F05E5",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "邮件",
+        "category": [
+          "人物"
+        ],
+        "name": "person_2",
+        "name_cn": "添加邮件联系人邮箱",
+        "unicode": "F05DC",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "人物"
+        ],
+        "name": "person_2_fill",
+        "name_cn": "合并",
+        "unicode": "F05DB",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "人物"
+        ],
+        "name": "person_badge_plus",
+        "name_cn": "添加人像/增加",
+        "unicode": "F05DF",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "主题",
+        "category": [
+          "人物"
+        ],
+        "name": "person_crop_circle_fill_1",
+        "name_cn": "我的-未选中",
+        "unicode": "F05F3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "应用市场",
+        "category": [
+          "系统UI",
+          "人物"
+        ],
+        "name": "person_fill",
+        "name_cn": "个人办事",
+        "unicode": "F05E1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "人物"
+        ],
+        "name": "person_filled_badge_plus",
+        "name_cn": "添加成员/增加/添加",
+        "unicode": "F05E4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "人物"
+        ],
+        "name": "person_filled_viewfinder",
+        "name_cn": "随影人动_on",
+        "unicode": "F0579",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "人物"
+        ],
+        "name": "person_square_fill",
+        "name_cn": "随影人动_off",
+        "unicode": "F057A",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "相机",
+        "category": [
+          "人物"
+        ],
+        "name": "portrait",
+        "name_cn": "人像",
+        "unicode": "F05C7",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "隐私&安全": [
+      {
+        "module": "应用市场",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "checkmark_shield",
+        "name_cn": "安全检测/钩",
+        "unicode": "F045E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧生活",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "checkmark_shield_fill",
+        "name_cn": "安全保护/钩",
+        "unicode": "F045D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "eye",
+        "name_cn": "护眼模式/眼睛",
+        "unicode": "F0120",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "全搜",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "eye_slash",
+        "name_cn": "密码不可见/眼睛",
+        "unicode": "F011F",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "隐私&安全",
+          "人物"
+        ],
+        "name": "hand_raised_hexagon",
+        "name_cn": "拦截规则/手",
+        "unicode": "F0743",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "通信社交",
+        "category": [
+          "隐私&安全",
+          "人物"
+        ],
+        "name": "hand_raised_hexagon_fill",
+        "name_cn": "骚扰电话",
+        "unicode": "F0487",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "钱包",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "key_horizontal",
+        "name_cn": "添加车钥匙",
+        "unicode": "F049B",
+        "mirror_unicode": "F0A16",
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "key_shield",
+        "name_cn": "设置",
+        "unicode": "F049E",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "key_shield_fill",
+        "name_cn": "超级隐私",
+        "unicode": "F049D",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "key_shield_slash_fill",
+        "name_cn": "禁用超级隐私/关闭",
+        "unicode": "F095B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "lock",
+        "name_cn": "关闭/锁",
+        "unicode": "F0008",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "lock_fill",
+        "name_cn": "锁",
+        "unicode": "F04C1",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "输入法",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "lock_open",
+        "name_cn": "开启",
+        "unicode": "F04C4",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "仪表",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "lock_open_badge_child",
+        "name_cn": "童锁开",
+        "unicode": "F04C2",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "系统UI",
+          "隐私&安全"
+        ],
+        "name": "lock_open_fill",
+        "name_cn": "解锁",
+        "unicode": "F04C3",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "智慧助手",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "person_shield",
+        "name_cn": "隐私管理",
+        "unicode": "F04DE",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "隐私和安全",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "person_shield_fill",
+        "name_cn": "隐私声明",
+        "unicode": "F04DD",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "SDK",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "staroflife_rectangle",
+        "name_cn": "密码登录/星号",
+        "unicode": "F04F8",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "锁屏AOD",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "touchid",
+        "name_cn": "小指纹",
+        "unicode": "F0507",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "DFS",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "touchid_circle",
+        "name_cn": "检测项_指纹传感器 ",
+        "unicode": "F0506",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "状态栏",
+        "category": [
+          "隐私&安全"
+        ],
+        "name": "vpn_key",
+        "name_cn": "VPN",
+        "unicode": "F078F",
+        "mirror_unicode": "F0AE6",
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "形状": [
+      {
+        "module": "锁屏AOD",
+        "category": [
+          "形状"
+        ],
+        "name": "circle",
+        "name_cn": "工具箱",
+        "unicode": "F0007",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "华为笔记",
+        "category": [
+          "编辑",
+          "形状"
+        ],
+        "name": "circle_dashed",
+        "name_cn": "套索",
+        "unicode": "F0134",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "形状"
+        ],
+        "name": "oval",
+        "name_cn": "椭圆形",
+        "unicode": "F034B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "形状"
+        ],
+        "name": "rectangle",
+        "name_cn": "矩形",
+        "unicode": "F0070",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "文件管理",
+        "category": [
+          "编辑",
+          "形状"
+        ],
+        "name": "rectangle_split_3x1",
+        "name_cn": "分栏视图",
+        "unicode": "F0528",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "图库",
+        "category": [
+          "形状"
+        ],
+        "name": "rotate_left",
+        "name_cn": "旋转",
+        "unicode": "F0364",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "形状"
+        ],
+        "name": "smallcircle_filled_circle",
+        "name_cn": "粗细",
+        "unicode": "F0169",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "截录屏",
+        "category": [
+          "形状"
+        ],
+        "name": "square",
+        "name_cn": "方形",
+        "unicode": "F0075",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      },
+      {
+        "module": "天生会画",
+        "category": [
+          "编辑",
+          "形状"
+        ],
+        "name": "triangleshape_fill",
+        "name_cn": "稳定性",
+        "unicode": "F036B",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "家庭": [
+      {
+        "module": "钱包",
+        "category": [
+          "家庭"
+        ],
+        "name": "drop_fill",
+        "name_cn": "水费",
+        "unicode": "F0062",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ],
+    "设备": [
+      {
+        "module": "耳机",
+        "category": [
+          "设备"
+        ],
+        "name": "earphone_bluetooth_fill",
+        "name_cn": "耳机通用",
+        "unicode": "F0857",
+        "mirror_unicode": null,
+        "support_version": "HarmonyOS 5.0+"
+      }
+    ]
+  }
+}

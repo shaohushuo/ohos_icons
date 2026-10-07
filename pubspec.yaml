@@ -1,0 +1,33 @@
+name: ohos_icons
+description: >-
+  HarmonyOS Symbol (HM Symbol) icons for Flutter, in the style of
+  cupertino_icons. Ships the official HarmonyOS icon font plus 534 named
+  IconData constants and rich metadata (Chinese labels, categories,
+  minimum HarmonyOS version). Works on the HarmonyOS Flutter fork
+  (CPF-Flutter/flutter_flutter) and standard Flutter.
+version: 0.1.0
+repository: https://github.com/shaohushuo/ohos_icons
+topics:
+  - icons
+  - harmonyos
+  - ohos
+  - openharmony
+  - symbol
+
+environment:
+  sdk: ">=3.0.0 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
+  fonts:
+    - family: HMSymbol
+      fonts:
+        - asset: assets/fonts/HMSymbol.ttf
