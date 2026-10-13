@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Generate lib/src/ohos_icons.dart from tool/data/name_map_new.json.
+"""Generate lib/src/harmony_icons.dart from tool/data/name_map_new.json.
 
 Produces:
   * `OhosIcons` - one `IconData` constant per HarmonyOS Symbol
@@ -9,7 +9,7 @@ Produces:
 Usage:
   python3 tool/generate_icons.py \
       --meta tool/data/name_map_new.json \
-      --out lib/src/ohos_icons.dart
+      --out lib/src/harmony_icons.dart
 """
 
 from __future__ import annotations
@@ -39,7 +39,7 @@ def dart_doc(*lines: str, indent: str = "  ") -> str:
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--meta", default="tool/data/name_map_new.json")
-    parser.add_argument("--out", default="lib/src/ohos_icons.dart")
+    parser.add_argument("--out", default="lib/src/harmony_icons.dart")
     args = parser.parse_args()
 
     with open(args.meta, encoding="utf-8") as fh:
@@ -126,7 +126,7 @@ def main() -> None:
     lines.append("  static const String fontFamily = 'HMSymbol';")
     lines.append("")
     lines.append("  /// Package name, used to resolve the font asset from other packages.")
-    lines.append("  static const String fontPackage = 'ohos_icons';")
+    lines.append("  static const String fontPackage = 'harmony_icons';")
     lines.append("")
     lines.append("  /// Version of the source icon metadata, e.g. `2.3`.")
     lines.append(f"  static const String version = '{version}';")

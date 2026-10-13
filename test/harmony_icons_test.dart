@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:ohos_icons/ohos_icons.dart';
+import 'package:harmony_icons/harmony_icons.dart';
 
 void main() {
   test('info map is consistent', () {

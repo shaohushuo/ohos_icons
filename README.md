@@ -1,6 +1,6 @@
-# ohos_icons
+# harmony_icons
 
-[![pub package](https://img.shields.io/pub/v/ohos_icons.svg)](https://pub.dev/packages/ohos_icons)
+[![pub package](https://img.shields.io/pub/v/harmony_icons.svg)](https://pub.dev/packages/harmony_icons)
 [![License: MIT](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 [![CI](https://github.com/shaohushuo/ohos_icons/actions/workflows/ci.yml/badge.svg)](https://github.com/shaohushuo/ohos_icons/actions/workflows/ci.yml)
 
@@ -10,7 +10,7 @@ HarmonyOS Symbol 图标库 for Flutter，用法与 [`cupertino_icons`](https://p
 - 内置 **534 个唯一图标**，覆盖 17 个分类
 - 面向鸿蒙生态：可直接运行在鸿蒙社区 Flutter 分叉 [CPF-Flutter/flutter_flutter](https://atomgit.com/CPF-Flutter/flutter_flutter) 上，也兼容官方 Flutter SDK
 
-![ohos_icons gallery 运行在鸿蒙模拟器](https://cdn.jsdelivr.net/gh/shaohushuo/ohos_icons@main/doc/ohos_screen_small.png)
+![harmony_icons gallery 运行在鸿蒙模拟器](https://cdn.jsdelivr.net/gh/shaohushuo/ohos_icons@main/doc/ohos_screen_small.png)
 
 ## 特性
 
@@ -24,20 +24,20 @@ HarmonyOS Symbol 图标库 for Flutter，用法与 [`cupertino_icons`](https://p
 
 ```yaml
 dependencies:
-  ohos_icons: ^0.1.0
+  harmony_icons: ^0.1.0
 ```
 
 或命令行：
 
 ```bash
-flutter pub add ohos_icons
+flutter pub add harmony_icons
 ```
 
 ## 快速开始
 
 ```dart
 import 'package:flutter/material.dart';
-import 'package:ohos_icons/ohos_icons.dart';
+import 'package:harmony_icons/harmony_icons.dart';
 
 class Demo extends StatelessWidget {
   @override
@@ -65,7 +65,7 @@ class Demo extends StatelessWidget {
 | --- | --- |
 | `OhosIcons.<name>` | `IconData` 常量，直接给 `Icon` / `IconButton` 使用 |
 | `OhosIcons.fontFamily` | 字体名，固定为 `HMSymbol` |
-| `OhosIcons.fontPackage` | 包名 `ohos_icons`，跨包使用时自动生效 |
+| `OhosIcons.fontPackage` | 包名 `harmony_icons`，跨包使用时自动生效 |
 
 ### 元数据
 
@@ -208,7 +208,7 @@ pip install fonttools    # 仅子集化/导出需要
 
 python3 tool/download_source.py   # 下载最新 name_map_new.json + HMSymbol.ttf
 python3 tool/subset_font.py       # 子集化字体 -> assets/fonts/HMSymbol.ttf
-python3 tool/generate_icons.py    # 生成 lib/src/ohos_icons.dart
+python3 tool/generate_icons.py    # 生成 lib/src/harmony_icons.dart
 python3 tool/export_svg.py        # （可选）导出全部图标为高保真 SVG
 ```
 
@@ -216,7 +216,7 @@ python3 tool/export_svg.py        # （可选）导出全部图标为高保真 S
 | --- | --- |
 | `tool/download_source.py` | 从华为官网下载图标元数据与字体 |
 | `tool/subset_font.py` | 将 4.2MB 官方字体裁剪为仅含图标码点（约 360KB） |
-| `tool/generate_icons.py` | 生成 `lib/src/ohos_icons.dart`（常量 + 元数据） |
+| `tool/generate_icons.py` | 生成 `lib/src/harmony_icons.dart`（常量 + 元数据） |
 | `tool/export_svg.py` | 导出每个图标的高保真矢量 SVG（`tool/export/svg/`） |
 | `tool/run_ohos.sh` | 构建并运行 example 到鸿蒙模拟器 |
 
@@ -224,8 +224,8 @@ python3 tool/export_svg.py        # （可选）导出全部图标为高保真 S
 
 ```
 lib/
-  ohos_icons.dart            # 库入口
-  src/ohos_icons.dart        # 生成的常量与元数据（勿手改）
+  harmony_icons.dart          # 库入口
+  src/harmony_icons.dart      # 生成的常量与元数据（勿手改）
 assets/fonts/HMSymbol.ttf    # 子集化图标字体
 example/                     # gallery 示例
 tool/                        # 下载/生成/导出/运行脚本

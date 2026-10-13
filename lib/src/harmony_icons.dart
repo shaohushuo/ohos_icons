@@ -66,7 +66,7 @@ class OhosIcons {
   static const String fontFamily = 'HMSymbol';
 
   /// Package name, used to resolve the font asset from other packages.
-  static const String fontPackage = 'ohos_icons';
+  static const String fontPackage = 'harmony_icons';
 
   /// Version of the source icon metadata, e.g. `2.3`.
   static const String version = '2.3';

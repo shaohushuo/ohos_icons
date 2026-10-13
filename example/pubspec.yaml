@@ -1,5 +1,5 @@
 name: ohos_icons_example
-description: Gallery app for ohos_icons.
+description: Gallery app for harmony_icons.
 publish_to: "none"
 version: 0.1.0
 
@@ -9,7 +9,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  ohos_icons:
+  harmony_icons:
     path: ../
 
 dev_dependencies:

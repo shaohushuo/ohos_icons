@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:ohos_icons/ohos_icons.dart';
+import 'package:harmony_icons/harmony_icons.dart';
 
 void main() => runApp(const OhosIconsGalleryApp());
 
@@ -9,7 +9,7 @@ class OhosIconsGalleryApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'ohos_icons gallery',
+      title: 'harmony_icons gallery',
       theme: ThemeData(
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.blue),
         useMaterial3: true,
@@ -52,7 +52,7 @@ class _GalleryPageState extends State<GalleryPage> {
   Widget build(BuildContext context) {
     final metas = _filtered;
     return Scaffold(
-      appBar: AppBar(title: const Text('ohos_icons gallery')),
+      appBar: AppBar(title: const Text('harmony_icons gallery')),
       body: Column(
         children: [
           Padding(
